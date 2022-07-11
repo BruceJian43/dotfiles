@@ -1,0 +1,5 @@
+[alias]
+    pika = log --oneline --graph
+    pikachu = log --oneline --graph --all
+[core]
+    editor = code --wait
